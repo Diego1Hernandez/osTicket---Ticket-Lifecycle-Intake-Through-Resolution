@@ -64,34 +64,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - Select Post Reply
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u8z6r77.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/QYWsEk5.png" height="80%" width="80%" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Resolving the Issue</h3>
+
+- Jane and the system admin team coordinate to solve the issue. 
+
+
+<h3> Resolution</h3>
+     
+- Once the issue is resolved, head back to the ticket and update the server.
+  - Response text box:  Dan was able to find a solution. Ticket closed.
+  - Ticket Status: Resolved
+- Select Post Reply
+- Observe the ticket presenting "closed".
+
+<p align="center">
+<img src="https://i.imgur.com/bFyY66A.png" height="80%" width="80%" /> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+Done.
+
