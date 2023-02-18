@@ -83,7 +83,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Observe the ticket presenting "closed".
 
 <p align="center">
-<img src="https://i.imgur.com/bFyY66A.png" height="80%" width="80%" /> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/bFyY66A.png" height="80%" width="80%" /> <img src="https://i.imgur.com/u8z6r77.png" height="80%" width="80%" />
 </p>
 
 Done.
